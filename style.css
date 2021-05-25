@@ -1,0 +1,28 @@
+#contact iframe{ 
+    width:100%;
+}
+#video{
+    width:100%;
+}
+.img-responsive{
+    height:450px;
+    width:300px;
+}
+.campus_mainDiv p {
+    margin-left: 20px;
+}
+.award_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.award_head i {
+    float: right;
+}
+
+.award_text span {
+    color: #ff7700;
